@@ -11,7 +11,7 @@
 [![Only 3 Kb](https://badge-size.herokuapp.com/ishanbhavsar3/ishanbhavsar3.github.io/master/index.html)](https://github.com/ishanbhavsar3/ishanbhavsar3.github.io/blob/master/index.html)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ishanbhavsar3/ishanbhavsar3.github.io/blob/main/LICENSE)
 [![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/ishanbhavsar3/ishanbhavsar3.github.io/)
+[![Open in Visual Studio Code](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/240px-Visual_Studio_Code_1.35_icon.svg.png)](https://open.vscode.dev/ishanbhavsar3/ishanbhavsar3.github.io/)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/ishanbhavsar3/ishanbhavsar3.github.io/graphs/commit-activity)
 ![Maintainer](https://img.shields.io/badge/maintainer-ishanbhavsar-red)
