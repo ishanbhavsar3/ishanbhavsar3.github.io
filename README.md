@@ -1,6 +1,6 @@
   # Ishan's first personal website <3
   
-  As a 15 year old computer science student from Mumbai, India, this was the first website that I built using HTML and CSS and it turned out really well :)
+  As an 18 year old computer science student from Mumbai, India, this was the first website that I built using HTML and CSS and it turned out really well :)
     
 ## Badges   
 
